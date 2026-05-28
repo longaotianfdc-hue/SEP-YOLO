@@ -25,7 +25,7 @@ state-of-the-art (SOTA) performance.
 
 
 ## Quantitative Comparisons
-![QuantitativeComparisons](images/1.png)
+![QuantitativeComparisons](image/1.png)
 
 ## APs Comparisons
 
