@@ -21,7 +21,7 @@ Trans10K and GVD datasets show that SEP-YOLO achieves
 state-of-the-art (SOTA) performance.
 
 ## Network Architecture
-![architecture](image/SEP-YOLO.png)
+![architecture](image/SEP-YOLO.jpg)
 
 
 ## Quantitative Comparisons
