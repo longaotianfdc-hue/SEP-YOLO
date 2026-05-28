@@ -1,5 +1,5 @@
 # SEP-YOLO
-**Fengming Zhang，Tao Yan，Jianchao Huang \***
+**Fengming Zhang，Tao Yan\*，Jianchao Huang **
 
 > Abstract—Transparent object instance segmentation presents significant challenges in computer vision, due to the inherent properties of transparent objects, including boundary blur, low
 contrast, and high dependence on background context. Exist
