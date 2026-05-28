@@ -1,0 +1,13 @@
+
+path: ../dataset/trans10k # dataset root dir
+train: images/train # train images (relative to 'path') 4 images
+val: images/val1 # val images (relative to 'path') 4 images
+test: # test images (optional)
+
+# Classes\
+names:
+  0: cup
+  1: glass
+
+
+

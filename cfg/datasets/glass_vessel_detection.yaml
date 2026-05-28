@@ -1,0 +1,24 @@
+
+path: ../dataset/glass_vessel_detection # dataset root dir
+train: images/train # train images (relative to 'path') 4 images
+val: images/val # val images (relative to 'path') 4 images
+test: # test images (optional)
+
+# Classes\
+names:
+ 0: saline_bottle
+ 1: volumetric_flask
+ 2: gas_collecting_bottle
+ 3: whorl_reagent_bottle
+ 4: beaker
+ 5: measuring_cylinder
+ 6: conical_flask
+ 7: colorimetric_tube
+ 8: round_bottom_flask
+ 9: sample_bottle
+ 10: Three_mouth_flask
+ 11: plastic_straw
+ 12: upper_nozzle_filtering_flask
+ 13: sample tube
+
+
